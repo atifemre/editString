@@ -1,12 +1,6 @@
-/*
- ============================================================================
- Name        : String Editing Program
- Author      : atifemre
- Version     :
- Copyright   : 
- Description : The program edits the given string and prints the new one by removing given number of duplicates
- ============================================================================
- */
+editString
+
+This program edits the given string and prints the new one by removing given number of duplicates
 
 Sample execution commands and corresponding outputs:
 
