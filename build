@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Building String Editing Program"
+gcc editString.c -o editString
